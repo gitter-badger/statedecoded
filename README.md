@@ -1,4 +1,5 @@
 # The State Decoded
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/sethkontny/statedecoded?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## What is The State Decoded?
 The State Decoded is a free, open source, web-based application to display laws online. Although it's meant for laws, it'll basically work for any structured legal text. It makes legal text searchable, interconnected, and machine-readable, adding an API, bulk downloads, and powerful semantic analysis tools. With The State Decoded, legal codes become vastly easier to read, more useful, and more open. Here's an actual before-and-after from the Code of Virginia:
